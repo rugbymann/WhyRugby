@@ -1,0 +1,33 @@
+table {
+    margin: 0 auto;
+    color: rgb(40, 9, 128);
+    background: white;
+    border: 2px solid gray;
+    font-size: 16pt;
+}
+
+table caption{
+    color: rgb(4, 4, 170);
+    font-weight: bold;
+}
+
+table thead th{
+    color: rgb(75, 58, 14);
+    background: rgb(222, 234, 204);
+
+}
+
+table tfoot th{
+    color: rgb(75, 58, 14);
+    background: rgb(222, 234, 204);
+}
+table tbody tr:nth-of-type(odd)  {
+    background-color: #fcb2b2;
+}
+h1 , h2{
+    color: rgb(7, 7, 110);
+    background-color: rgb(237, 224, 206) ;
+}
+p{
+    background-color: rgb(237, 224, 206);
+}
